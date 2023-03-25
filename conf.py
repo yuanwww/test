@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/yuanwww.github.io/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "拾壹博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+author = "拾壹"
+email = "213194124@qq.com"
+author_homepage = "yuanwww.github.io"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '拾壹', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
